@@ -1,0 +1,3 @@
+{
+    "/Data/:patientId": "/Data?patientId=:patientId"
+}
